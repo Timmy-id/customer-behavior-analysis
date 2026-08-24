@@ -177,7 +177,7 @@ The dashboard provides a visual view of customer shopping behavior and supports 
 *Add your Power BI dashboard screenshot here:*
 
 ```markdown
-![Customer Shopping Behavior Dashboard](images/powerbi-dashboard.png)
+![Customer Shopping Behavior Dashboard](power-bi.png)
 ```
 
 ---

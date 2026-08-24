@@ -278,9 +278,9 @@ customer_behavior_dashboard.pbix
 
 Update the PostgreSQL connection if necessary and refresh the data.
 
-### 6. Review the Report & Presentation
+### 6. Review the Report
 
-The business report and Gamma-generated presentation are also available in the repository
+The business report is also available in the repository
 
 ---
 
